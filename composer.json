@@ -1,0 +1,21 @@
+{
+  "name": "neTpyceB/TMCms-module-vk",
+  "type": "library",
+  "description": "Module Vk for TMCms",
+  "keywords": ["module", "Vk", "vkontakte"],
+  "homepage": "http://devp.lv/",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vadims Petrusevs",
+      "email": "info@petrik.lv",
+      "homepage": "http://petrik.lv/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "neTpyceB\\TMCms": "src"
+    }
+  }
+}
